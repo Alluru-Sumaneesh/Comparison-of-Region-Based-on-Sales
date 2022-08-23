@@ -1,5 +1,5 @@
 # Comparison of Region Based on Sales
-  * Data visualization
+  * Data visualization[Tableau project](https://github.com/Alluru-Sumaneesh/Comparison-of-Region-Based-on-Sales)
 # Project Description
   * Created a dashboard to visualize the sales comparison between two selected US regions.
 # Process
